@@ -14,5 +14,13 @@ Identifying segments of the population that best describe the core customer base
 3) DIAS Attributes - Values 2017.xlsx: Info about the attributes.
 4) README.md: description about the project files.
 
+## Libraries:
+1) pandas
+2) numpy
+3) matplotlib
+4) seaborn
+5) pickle
+6) sklearn
+
 ## Blog:
 The report for the project work can be found in https://customersegmentationcapstone.blogspot.com/2019/08/customer-segments-capstone.html
